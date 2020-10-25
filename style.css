@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+body{
+    background-color: bisque;
+    font-family: 'Oswald', sans-serif;
+}
+h2 {
+    color: chocolate;
+}
+p {
+    color: darkmagenta;
+}
+li {
+    color: darkorange;
+}
+dt {
+    color: deeppink;
+}
+dd {
+    color: gold;
+}
+
